@@ -1,1 +1,2 @@
-Text 2 changed again
+Text 2 changed again in Master branch
+Causing conflict
